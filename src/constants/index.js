@@ -152,7 +152,7 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://github.com/guangluda",
+      source_code_link: "https://github.com/guangluda/portfolio",
     },
     {
       name: "Badmintoners",
