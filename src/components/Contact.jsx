@@ -33,10 +33,10 @@ const Contact = () => {
 
     emailjs
       .send(
-        "service_parlesa",
-        "template_hzxhs6n",
-        // import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-        // import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
+        // "service_parlesa",
+        // "template_hzxhs6n",
+        import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
+        import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
         {
           from_name: form.name,
           to_name: "Jiwu Wei",
@@ -44,8 +44,8 @@ const Contact = () => {
           to_email: "weijwu618@gmail.com",
           message: form.message,
         },
-        "Le8B6hoKSWCgQ3CwM"
-        // import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+        // "Le8B6hoKSWCgQ3CwM"
+        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
       )
       .then(
         () => {
