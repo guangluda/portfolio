@@ -153,6 +153,7 @@ import {
       ],
       image: portfolio,
       source_code_link: "https://github.com/guangluda/portfolio",
+      web_link: "https://github.com/guangluda/portfolio",
     },
     {
       name: "Badmintoners",
@@ -174,6 +175,7 @@ import {
       ],
       image: badmintoners,
       source_code_link: "https://github.com/guangluda/badmintoners",
+      web_link: "https://calm-atoll-78639.herokuapp.com/",
     },
   ];
   
