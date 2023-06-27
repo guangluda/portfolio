@@ -118,7 +118,7 @@ import {
       iconBg: "#265828",
       date: "February 2022 - Present",
       points: [
-        "Edite and update website content, send press releases",
+        "Edit and update website content, send press releases",
         "Manage VPN accounts, enforcing security check practices",
         "Update Prisoners of Conscience data",
       ],
