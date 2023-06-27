@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am a self-taught entry-level web developer with a solid foundation in mathematics 
+        Entry-level web developer with bachelor's degree in mathematics 
         and a passion for problem-solving. Proficient in JavaScript, React and Node.js, 
         which allow me to create dynamic and responsive web applications.  
         I thrive on challenges and consider myself a quick learner, always eager to tackle complex business problems alongside fellow developers. 

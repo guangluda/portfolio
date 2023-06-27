@@ -9,6 +9,7 @@ import {
     reactjs,
     nodejs,
     mongodb,
+    mongoose,
     mysql,
     python,
     bootstrap,
@@ -16,6 +17,7 @@ import {
     redux,
     tailwind,
     git,
+    heroku,
     chrd,
     portfolio,
     badmintoners,
@@ -73,14 +75,6 @@ import {
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
-      name: "Tailwind CSS",
-      icon: tailwind,
-    },
-    {
       name: "Node JS",
       icon: nodejs,
     },
@@ -89,24 +83,37 @@ import {
       icon: mongodb,
     },
     {
+      name: "Mongoose",
+      icon: mongoose,
+    },
+    {
         name:"MySQL",
         icon: mysql,
     },
     {
-      name: "Three JS",
-      icon: threejs,
+      name:"Python",
+      icon: python, 
     },
-    {
-        name:"Python",
-        icon: python, 
-    },
+    // {
+    //   name: "Three JS",
+    //   icon: threejs,
+    // },
+    
     {
         name:"Bootstrap",
         icon: bootstrap, 
     },
     {
+      name: "Tailwind CSS",
+      icon: tailwind,
+    },
+    {
       name: "git",
       icon: git,
+    },
+    {
+      name: "Heroku",
+      icon: heroku,
     },
   ];
   

@@ -17,12 +17,14 @@ import bootstrap from "./tech/bootstrap.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
+import mongoose from "./tech/mongoose.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import heroku from "./tech/heroku.png";
 
 import chrd from "./company/chrd.png";
 
@@ -48,12 +50,14 @@ export {
   html,
   javascript,
   mongodb,
+  mongoose,
   nodejs,
   reactjs,
   redux,
   tailwind,
   typescript,
   threejs,
+  heroku,
   chrd,
   portfolio,
   badmintoners,
