@@ -140,7 +140,7 @@ import {
     {
       name: "Portfolio",
       description:
-        "3D web application with responsive design and captivating 3D visuals, powered by React and styled with Tailwind CSS.",
+        "Web application with responsive design and captivating 3D visuals, powered by React and styled with Tailwind CSS.",
       tags: [
         {
           name: "react",
