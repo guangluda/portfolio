@@ -153,7 +153,7 @@ import {
       ],
       image: portfolio,
       source_code_link: "https://github.com/guangluda/portfolio",
-      web_link: "https://github.com/guangluda/portfolio",
+      web_link: "https://www.jiwuportfolio.top/",
     },
     {
       name: "Badmintoners",
